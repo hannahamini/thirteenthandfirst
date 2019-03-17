@@ -61,8 +61,7 @@ img {
 article {
   display: block;
   font-family: 'Times New Roman', serif;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin: auto;
 }
 
 h2 {
@@ -84,10 +83,10 @@ h3 {
 }
 
 .story {
-  margin-left: 100px;
-  margin-right: 100px;
+  width: 60%;
   font-size: 15pt;
   padding-top: auto;
+  margin: auto;
 }
 
 .video_container {
@@ -101,6 +100,7 @@ h3 {
   width: 48%;
   display: grid;
   padding: 5px;
+  margin: auto;
 }
 
 .humor {
